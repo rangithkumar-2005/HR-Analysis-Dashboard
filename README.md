@@ -8,7 +8,7 @@ The dashboard provides a clear overview of employee data and helps analyze workf
 
 ## 📸 Dashboard Preview
 
-<img src="HR DASHBOARD.png" alt="HR Analysis Dashboard" width="100%">
+<img src="HR DASHBOARD .png" alt="HR Analysis Dashboard" width="100%">
 
 ---
 
